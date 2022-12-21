@@ -6,11 +6,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: 
+<!--   image:  -->
   image_circular: false # crops the image to make it circular
   address: >
-# <p>555 your office number</p>
-# <p>123 your address street</p>
+<!-- # <p>555 your office number</p>
+# <p>123 your address street</p> -->
     <p>Cincinnati, OH</p>
 
 news: false  # includes a list of news items
