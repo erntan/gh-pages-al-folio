@@ -9,8 +9,8 @@ profile:
   image: 
   image_circular: false # crops the image to make it circular
   address: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
+# <p>555 your office number</p>
+# <p>123 your address street</p>
     <p>Cincinnati, OH</p>
 
 news: true  # includes a list of news items
