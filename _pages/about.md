@@ -17,3 +17,4 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Curently a data analyst at American Express, I graduated with a B.S. in Mathematics from Case Western Reserve University in Cleveland, OH. I minored in Computer Science and Spanish.
